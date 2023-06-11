@@ -39,3 +39,4 @@
 ![Popogo_page-0025](https://github.com/SeungJin051/Popogo_AndroidProject/assets/83889135/d46c765d-ea04-406f-9aa7-1a387881fa35)
 ![Popogo_page-0026](https://github.com/SeungJin051/Popogo_AndroidProject/assets/83889135/58436e8f-65dd-457c-8611-19ab41576ffc)
 ![Popogo_page-0027](https://github.com/SeungJin051/Popogo_AndroidProject/assets/83889135/107bb523-852e-4c17-b7fa-0dce0f0d90b9)
+![Popogo_page-0028](https://github.com/SeungJin051/Popogo_AndroidProject/assets/83889135/bb645695-0938-4f38-b1b7-414e769a3e67)
