@@ -1,6 +1,8 @@
 # Popogo_AndroidProject
 2023-1 안드로이드 앱 개발 기말 프로젝트
 
+<img src="https://github.com/SeungJin051/Popogo_AndroidProject/assets/83889135/998fec20-67d5-498f-b3ee-394ec9d33445" width="700" height="1100" alt="Untitled">
+
 <hr>
 
 ## 주요 파일 링크  
