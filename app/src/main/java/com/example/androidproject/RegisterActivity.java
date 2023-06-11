@@ -85,9 +85,9 @@ public class RegisterActivity extends AppCompatActivity {
                                 startActivity(intent);
                                 overridePendingTransition(R.anim.fadein, R.anim.fadeout);
                                 finish();
-                                Toast.makeText(RegisterActivity.this, "회원기입에 성공했습니다", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(RegisterActivity.this, "회원가입에 성공했습니다", Toast.LENGTH_SHORT).show();
                             } else {
-                                Toast.makeText(RegisterActivity.this, "회원기입에 실패했습니다", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(RegisterActivity.this, "회원가입에 실패했습니다", Toast.LENGTH_SHORT).show();
                             }
                         }
                     });
